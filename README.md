@@ -1,5 +1,38 @@
-Hi, I'm Ayelén 👋
-- 🔭 I’m currently studying at factoríaF5. I am doing a Full Stack Bootcamp.
-- 🌱 I’m currently learning React. I have already done some projects using HTML5, CSS3 and JavaScript. I can also manage Jira.
-- 👩‍🏫 I am a teacher so as a developer I would love to work on educational projects.
+# Hello! I'm Ayelén 👋
 
+Welcome to my GitHub profile! Here's a bit about me:
+
+## 🌍 About Me
+- **Name:** Ayelén
+- **Origin:** Argentina (Living abroad for 2 years)
+- **Current Transition:** From English teaching to programming
+- **Passions:** Education, technology, gender studies
+
+## 🧑‍🏫 Professional Background
+With over 15 years of experience as an English teacher, I have primarily worked with teenagers. My journey has taken me across different roles, including hospitality, where I demonstrated my adaptability, quick learning, and efficiency. My new adventure in the world of programming excites me, and I aim to contribute to educational projects in the tech sector.
+
+## 💡 Skills
+- **Languages:** English (Expert), Spanish (Native)
+- **Tech Specialization:** Education and ICTs
+- **Web Design:** Basic skills acquired through a hospitality web design course
+- **Programming:** Currently enrolled in a full stack bootcamp (Graduating in June)
+- **Technologies:** HTML5, CSS3, JavaScript, React, Jira
+- **Professional Attributes:** Responsibility, organization, determination, leadership, and team coordination
+- **Teamwork:** Proficient in Agile methodologies like Scrum
+
+## 🎓 Education
+- **English Teaching:** 15+ years of experience
+- **Gender Studies:** Specialist in sexual education
+
+## 🌱 Interests & Hobbies
+- **Nature & Hiking:** Exploring the great outdoors
+- **Dancing:** Keeping the rhythm alive
+- **Reading:** Diving into captivating books
+- **Personality:** Calm and skilled at building positive relationships
+
+## 🔭 Future Goals
+I aspire to work in the programming sector, focusing on projects that bridge technology and education.
+
+---
+
+Thanks for stopping by! If you're as passionate about merging education with technology as I am, let's connect and transform ideas into impactful reality. 🚀
