@@ -24,12 +24,12 @@ With over 15 years of experience as an English teacher, I have primarily worked 
 - **English Teaching:** 15+ years of experience
 - **Gender Studies:** Specialist in sexual education
 
-## 🌱 Interests & Hobbies
+## 💃🏻 Interests & Hobbies
 - **Nature & Hiking:** Exploring the great outdoors
 - **Dancing:** Keeping the rhythm alive
 - **Reading:** Diving into captivating books
 
-## 🔭 Future Goals
+## 🎯 Future Goals
 I would love to work in the programming sector, focusing on projects that bridge technology and education.
 
 ---
