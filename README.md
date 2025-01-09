@@ -34,4 +34,7 @@ I would love to work in the programming sector, focusing on projects that bridge
 
 ---
 
-Thanks for stopping by! If you're as passionate about merging education with technology as I am, let's connect and transform ideas into impactful reality. 🚀
+---
+
+Looking forward to collaborating and sharing knowledge with like-minded tech enthusiasts. Let's make a difference together! 🌟
+
