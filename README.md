@@ -11,7 +11,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 ## 🧑‍🏫 Professional Background
 With over 15 years of experience as an English teacher, I have primarily worked with teenagers. My journey has taken me across different roles, including hospitality, where I have shown my adaptability, quick learning and efficiency. My new adventure in the world of programming excites me and I aim to contribute to educational projects in the tech sector.
 
-## 💡 Skills
+## 💪 Skills
 - **Languages:** English (Expert), Spanish (Native)
 - **Tech Specialization:** Education and ICTs
 - **Web Design:** Basic skills acquired through a hospitality web design course
