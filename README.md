@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 - **Passions:** Education, technology and gender studies
 
 ## 🧑‍🏫 Professional Background
-With over 15 years of experience as an English teacher, I have primarily worked with teenagers. My journey has taken me across different roles, including hospitality, where I have shown my adaptability, quick learning and efficiency. My new adventure in the world of programming excites me and I aim to contribute to educational projects in the tech sector.
+With over 15 years of experience as an English teacher, I have mainly worked with teenagers. Leaving my country has taken me across different roles, including hospitality, where I have shown my adaptability, quick learning and efficiency. My new adventure in the world of programming excites me and I aim to contribute to educational projects in the tech sector.
 
 ## 💪 Skills
 - **Languages:** English (Expert), Spanish (Native)
