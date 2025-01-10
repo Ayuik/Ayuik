@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ## 🌍 About Me
 - **Name:** Ayelén
-- **Origin:** Argentina (Living abroad for 2 years)
+- **Origin:** Argentina (Living abroad since November 2022)
 - **Current Transition:** From English teaching to programming
 - **Passions:** Education, technology and gender studies
 
@@ -15,7 +15,7 @@ With over 15 years of experience as an English teacher, I have primarily worked 
 - **Languages:** English (Expert), Spanish (Native)
 - **Tech Specialization:** Education and ICTs
 - **Web Design:** Basic skills acquired through a hospitality web design course
-- **Programming:** Currently enrolled in a **full stack bootcamp at factoríaF5**(Graduating in June)
+- **Programming:** Currently enrolled in a **full stack bootcamp at factoríaF5** (Graduating in June)
 - **Technologies:** HTML5, CSS3, JavaScript, React and Jira
 - **Professional Attributes:** Responsibility, organization, determination, leadership and team coordination
 - **Teamwork:** Familiar with Agile methodologies like Scrum
@@ -30,7 +30,7 @@ With over 15 years of experience as an English teacher, I have primarily worked 
 - **Reading:** Diving into captivating books
 
 ## 🎯 Future Goals
-I would love to work in the programming sector, focusing on projects that bridge technology and education.
+I would love to work in the programming sector, focusing on projects that bridge technology and education or gender issues.
 
 ---
 
